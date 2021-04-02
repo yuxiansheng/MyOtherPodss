@@ -10,6 +10,11 @@
 #endif
 #endif
 
+#import "Client.h"
+#import "Client_Buyer_WJ.h"
+#import "Client_SellerWL.h"
+#import "Client_SellerZH.h"
+#import "Mediator.h"
 
 FOUNDATION_EXPORT double MyOtherPodssVersionNumber;
 FOUNDATION_EXPORT const unsigned char MyOtherPodssVersionString[];
